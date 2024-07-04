@@ -1,0 +1,754 @@
+Закарпатська область
+Ужгород / Ужгород / Uzhhorod / Użhorod
+Українська:
+Ужгород
+1.1. Центр
+1.2. Боздоський район
+1.3. Радванка
+1.4. Баб'янка
+1.5. Доманинці
+1.6. Горяни
+1.7. Шахта
+Російська:
+Ужгород
+1.1. Центр
+1.2. Боздоский район
+1.3. Радванка
+1.4. Бабьянка
+1.5. Доманинцы
+1.6. Горяны
+1.7. Шахта
+Англійська:
+Uzhhorod
+1.1. Center
+1.2. Bozdoskyi District
+1.3. Radvanka
+1.4. Bab'ianka
+1.5. Domanintsi
+1.6. Horyany
+1.7. Shakhta
+Польська:
+Użhorod
+1.1. Centrum
+1.2. Dzielnica Bozdoska
+1.3. Radwanka
+1.4. Babianaka
+1.5. Domanintsi
+1.6. Horyany
+1.7. Szachta
+Берегово / Берегово / Berehovo / Beregowo
+Українська:
+Берегово
+2.1. Центр
+2.2. Затишне
+2.3. Промислова зона
+2.4. Сільце
+2.5. Новий район
+Російська:
+Берегово
+2.1. Центр
+2.2. Затишное
+2.3. Промышленная зона
+2.4. Сильце
+2.5. Новый район
+Англійська:
+Berehovo
+2.1. Center
+2.2. Zatyshne
+2.3. Industrial Zone
+2.4. Silce
+2.5. Novyi District
+Польська:
+Beregowo
+2.1. Centrum
+2.2. Zatyshne
+2.3. Strefa przemysłowa
+2.4. Silce
+2.5. Nowa Dzielnica
+Виноградів / Виноградов / Vynohradiv / Winogradow
+Українська:
+Виноградів
+3.1. Центр
+3.2. Промислова зона
+3.3. Селище Чорна Гора
+3.4. Селище Підвиноградів
+Російська:
+Виноградов
+3.1. Центр
+3.2. Промышленная зона
+3.3. Посёлок Черная Гора
+3.4. Посёлок Подвиноградов
+Англійська:
+Vynohradiv
+3.1. Center
+3.2. Industrial Zone
+3.3. Chorna Hora Settlement
+3.4. Pidvynohradiv Settlement
+Польська:
+Winogradow
+3.1. Centrum
+3.2. Strefa przemysłowa
+3.3. Osiedle Czarna Góra
+3.4. Osiedle Podwinogradow
+Іршава / Иршава / Irshava / Irszawa
+Українська:
+Іршава
+4.1. Центр
+4.2. Промислова зона
+4.3. Селище Заріччя
+4.4. Селище Дубрівка
+Російська:
+Иршава
+4.1. Центр
+4.2. Промышленная зона
+4.3. Посёлок Заречье
+4.4. Посёлок Дубровка
+Англійська:
+Irshava
+4.1. Center
+4.2. Industrial Zone
+4.3. Zarichchia Settlement
+4.4. Dubrivka Settlement
+Польська:
+Irszawa
+4.1. Centrum
+4.2. Strefa przemysłowa
+4.3. Osiedle Zariczczia
+4.4. Osiedle Dubriwka
+Мукачево / Мукачево / Mukachevo / Mukaczewo
+Українська:
+Мукачево
+5.1. Центр
+5.2. Росвигово
+5.3. Паланок
+5.4. Новий район
+5.5. Черьомушки
+5.6. Горяни
+Російська:
+Мукачево
+5.1. Центр
+5.2. Росвигово
+5.3. Паланок
+5.4. Новый район
+5.5. Черёмушки
+5.6. Горяны
+Англійська:
+Mukachevo
+5.1. Center
+5.2. Rosvyhovo
+5.3. Palanok
+5.4. Novyi District
+5.5. Cheryomushky
+5.6. Horyany
+Польська:
+Mukaczewo
+5.1. Centrum
+5.2. Roswyhowo
+5.3. Palanok
+5.4. Nowa Dzielnica
+5.5. Czeryomuszki
+5.6. Horyany
+Перечин / Перечин / Perechyn / Piereczyn
+Українська:
+Перечин
+6.1. Центр
+6.2. Промислова зона
+6.3. Селище Мокра
+6.4. Селище Луково
+Російська:
+Перечин
+6.1. Центр
+6.2. Промышленная зона
+6.3. Посёлок Мокра
+6.4. Посёлок Луково
+Англійська:
+Perechyn
+6.1. Center
+6.2. Industrial Zone
+6.3. Mokra Settlement
+6.4. Lukovo Settlement
+Польська:
+Piereczyn
+6.1. Centrum
+6.2. Strefa przemysłowa
+6.3. Osiedle Mokra
+6.4. Osiedle Łukowo
+Рахів / Рахов / Rakhiv / Rachów
+Українська:
+Рахів
+7.1. Центр
+7.2. Промислова зона
+7.3. Селище Костилівка
+7.4. Селище Водиця
+Російська:
+Рахов
+7.1. Центр
+7.2. Промышленная зона
+7.3. Посёлок Костылевка
+7.4. Посёлок Водица
+Англійська:
+Rakhiv
+7.1. Center
+7.2. Industrial Zone
+7.3. Kostylivka Settlement
+7.4. Vodytsia Settlement
+Польська:
+Rachów
+7.1. Centrum
+7.2. Strefa przemysłowa
+7.3. Osiedle Kostyliwka
+7.4. Osiedle Wodica
+Свалява / Свалява / Svalyava / Swaława
+Українська:
+Свалява
+8.1. Центр
+8.2. Промислова зона
+8.3. Селище Довге
+8.4. Селище Родникова Гута
+8.5. Заріччя
+Російська:
+Свалява
+8.1. Центр
+8.2. Промышленная зона
+8.3. Посёлок Долгое
+8.4. Посёлок Родниковая Гута
+8.5. Заречье
+Англійська:
+Svalyava
+8.1. Center
+8.2. Industrial Zone
+8.3. Dovhe Settlement
+8.4. Rodnykova Huta Settlement
+8.5. Zarichchia
+Польська:
+Swaława
+8.1. Centrum
+8.2. Strefa przemysłowa
+8.3. Osiedle Długie
+8.4. Osiedle Rodnikowa Huta
+8.5. Zariczczia
+Тячів / Тячев / Tiachiv / Tiachiw
+Українська:
+Тячів
+9.1. Центр
+9.2. Промислова зона
+9.3. Селище Лази
+9.4. Селище Вільхівці
+Російська:
+Тячев
+9.1. Центр
+9.2. Промышленная зона
+9.3. Посёлок Лазы
+9.4. Посёлок Вильховцы
+Англійська:
+Tiachiv
+9.1. Center
+9.2. Industrial Zone
+9.3. Lazy Settlement
+9.4. Vilkhivtsi Settlement
+Польська:
+Tiachiw
+9.1. Centrum
+9.2. Strefa przemysłowa
+9.3. Osiedle Lazy
+9.4. Osiedle Wilchowce
+Хуст / Хуст / Khust / Chust
+Українська:
+Хуст
+10.1. Центр
+10.2. Промислова зона
+10.3. Селище Кіреші
+10.4. Селище Загорб
+Російська:
+Хуст
+10.1. Центр
+10.2. Промышленная зона
+10.3. Посёлок Киреши
+10.4. Посёлок Загорб
+Англійська:
+Khust
+10.1. Center
+10.2. Industrial Zone
+10.3. Kireshi Settlement
+10.4. Zahorb Settlement
+Польська:
+Chust
+10.1. Centrum
+10.2. Strefa przemysłowa
+10.3. Osiedle Kireszi
+10.4. Osiedle Zahorb
+Чоп / Чоп / Chop / Czap
+Українська:
+Чоп
+11.1. Центр
+11.2. Промислова зона
+11.3. Селище Левада
+11.4. Селище Вокзальна
+11.5. Раковець
+Російська:
+Чоп
+11.1. Центр
+11.2. Промышленная зона
+11.3. Посёлок Левада
+11.4. Посёлок Вокзальная
+11.5. Раковец
+Англійська:
+Chop
+11.1. Center
+11.2. Industrial Zone
+11.3. Levada Settlement
+11.4. Vokzalna Settlement
+11.5. Rakovets
+Польська:
+Czap
+11.1. Centrum
+11.2. Strefa przemysłowa
+11.3. Osiedle Levada
+11.4. Osiedle Dworcowa
+11.5. Rakowiec
+Батєво (смт) / Батево (пгт) / Batyovo (UTC) / Batowo (osiedle)
+Українська:
+Батєво (смт)
+12.1. Центр
+12.2. Промислова зона
+12.3. Селище Східне
+12.4. Селище Західне
+Російська:
+Батево (пгт)
+12.1. Центр
+12.2. Промышленная зона
+12.3. Посёлок Восточное
+12.4. Посёлок Западное
+Англійська:
+Batyovo (UTC)
+12.1. Center
+12.2. Industrial Zone
+12.3. Skhidne Settlement
+12.4. Zakhidne Settlement
+Польська:
+Batowo (osiedle)
+12.1. Centrum
+12.2. Strefa przemysłowa
+12.3. Osiedle Wschodnie
+12.4. Osiedle Zachodnie
+Білки (смт) / Белки (пгт) / Bilky (UTC) / Bełki (osiedle)
+Українська:
+Білки (смт)
+13.1. Центр
+13.2. Промислова зона
+13.3. Селище Східне
+13.4. Селище Північне
+Російська:
+Белки (пгт)
+13.1. Центр
+13.2. Промышленная зона
+13.3. Посёлок Восточное
+13.4. Посёлок Северное
+Англійська:
+Bilky (UTC)
+13.1. Center
+13.2. Industrial Zone
+13.3. Skhidne Settlement
+13.4. Pivnichne Settlement
+Польська:
+Bełki (osiedle)
+13.1. Centrum
+13.2. Strefa przemysłowa
+13.3. Osiedle Wschodnie
+13.4. Osiedle Północne
+Вилок (смт) / Вилок (пгт) / Vylok (UTC) / Wyłok (osiedle)
+Українська:
+Вилок (смт)
+14.1. Центр
+14.2. Промислова зона
+14.3. Селище Східне
+14.4. Селище Південне
+Російська:
+Вилок (пгт)
+14.1. Центр
+14.2. Промышленная зона
+14.3. Посёлок Восточное
+14.4. Посёлок Южное
+Англійська:
+Vylok (UTC)
+14.1. Center
+14.2. Industrial Zone
+14.3. Skhidne Settlement
+14.4. Pivdenne Settlement
+Польська:
+Wyłok (osiedle)
+14.1. Centrum
+14.2. Strefa przemysłowa
+14.3. Osiedle Wschodnie
+14.4. Osiedle Południowe
+Великий Березний (смт) / Великий Березный (пгт) / Velykyi Bereznyi (UTC) / Wielki Berezny (osiedle)
+Українська:
+Великий Березний (смт)
+15.1. Центр
+15.2. Промислова зона
+15.3. Селище Східне
+15.4. Селище Північне
+Російська:
+Великий Березный (пгт)
+15.1. Центр
+15.2. Промышленная зона
+15.3. Посёлок Восточное
+15.4. Посёлок Северное
+Англійська:
+Velykyi Bereznyi (UTC)
+15.1. Center
+15.2. Industrial Zone
+15.3. Skhidne Settlement
+15.4. Pivnichne Settlement
+Польська:
+Wielki Berezny (osiedle)
+15.1. Centrum
+15.2. Strefa przemysłowa
+Закарпатська область (продовження)
+Великий Березний (смт) / Великий Березный (пгт) / Velykyi Bereznyi (UTC) / Wielki Berezny (osiedle)
+Українська:
+Великий Березний (смт)
+15.1. Центр
+15.2. Промислова зона
+15.3. Селище Східне
+15.4. Селище Північне
+Російська:
+Великий Березный (пгт)
+15.1. Центр
+15.2. Промышленная зона
+15.3. Посёлок Восточное
+15.4. Посёлок Северное
+Англійська:
+Velykyi Bereznyi (UTC)
+15.1. Center
+15.2. Industrial Zone
+15.3. Skhidne Settlement
+15.4. Pivnichne Settlement
+Польська:
+Wielki Berezny (osiedle)
+15.1. Centrum
+15.2. Strefa przemysłowa
+15.3. Osiedle Wschodnie
+15.4. Osiedle Północne
+Воловець (смт) / Воловец (пгт) / Volovets (UTC) / Wołowiec (osiedle)
+Українська:
+Воловець (смт)
+16.1. Центр
+16.2. Промислова зона
+16.3. Селище Північне
+16.4. Селище Південне
+Російська:
+Воловец (пгт)
+16.1. Центр
+16.2. Промышленная зона
+16.3. Посёлок Северное
+16.4. Посёлок Южное
+Англійська:
+Volovets (UTC)
+16.1. Center
+16.2. Industrial Zone
+16.3. Pivnichne Settlement
+16.4. Pivdenne Settlement
+Польська:
+Wołowiec (osiedle)
+16.1. Centrum
+16.2. Strefa przemysłowa
+16.3. Osiedle Północne
+16.4. Osiedle Południowe
+Дубове (смт) / Дубовое (пгт) / Dubove (UTC) / Dubowe (osiedle)
+Українська:
+Дубове (смт)
+17.1. Центр
+17.2. Промислова зона
+17.3. Селище Лісове
+17.4. Селище Підлісне
+Російська:
+Дубовое (пгт)
+17.1. Центр
+17.2. Промышленная зона
+17.3. Посёлок Лесное
+17.4. Посёлок Подлесное
+Англійська:
+Dubove (UTC)
+17.1. Center
+17.2. Industrial Zone
+17.3. Lisove Settlement
+17.4. Pidlisne Settlement
+Польська:
+Dubowe (osiedle)
+17.1. Centrum
+17.2. Strefa przemysłowa
+17.3. Osiedle Leśne
+17.4. Osiedle Podleśne
+Королево (смт) / Королево (пгт) / Korolevo (UTC) / Korolewo (osiedle)
+Українська:
+Королево (смт)
+18.1. Центр
+18.2. Промислова зона
+18.3. Селище Північне
+18.4. Селище Південне
+Російська:
+Королево (пгт)
+18.1. Центр
+18.2. Промышленная зона
+18.3. Посёлок Северное
+18.4. Посёлок Южное
+Англійська:
+Korolevo (UTC)
+18.1. Center
+18.2. Industrial Zone
+18.3. Pivnichne Settlement
+18.4. Pivdenne Settlement
+Польська:
+Korolewo (osiedle)
+18.1. Centrum
+18.2. Strefa przemysłowa
+18.3. Osiedle Północne
+18.4. Osiedle Południowe
+Міжгір'я (смт) / Межгорье (пгт) / Mizhhiria (UTC) / Miżhhiria (osiedle)
+Українська:
+Міжгір'я (смт)
+19.1. Центр
+19.2. Промислова зона
+19.3. Селище Лісове
+19.4. Селище Гірське
+Російська:
+Межгорье (пгт)
+19.1. Центр
+19.2. Промышленная зона
+19.3. Посёлок Лесное
+19.4. Посёлок Горное
+Англійська:
+Mizhhiria (UTC)
+19.1. Center
+19.2. Industrial Zone
+19.3. Lisove Settlement
+19.4. Hirske Settlement
+Польська:
+Miżhhiria (osiedle)
+19.1. Centrum
+19.2. Strefa przemysłowa
+19.3. Osiedle Leśne
+19.4. Osiedle Górskie
+Середнє (смт) / Среднее (пгт) / Serednie (UTC) / Średnie (osiedle)
+Українська:
+Середнє (смт)
+20.1. Центр
+20.2. Промислова зона
+20.3. Селище Південне
+20.4. Селище Західне
+Російська:
+Среднее (пгт)
+20.1. Центр
+20.2. Промышленная зона
+20.3. Посёлок Южное
+20.4. Посёлок Западное
+Англійська:
+Serednie (UTC)
+20.1. Center
+20.2. Industrial Zone
+20.3. Pivden
+Солотвино (смт) / Солотвино (пгт) / Solotvyno (UTC) / Sołotwina (osiedle)
+Українська:
+Солотвино (смт)
+21.1. Центр
+21.2. Промислова зона
+21.3. Селище Північне
+21.4. Селище Південне
+Російська:
+Солотвино (пгт)
+21.1. Центр
+21.2. Промышленная зона
+21.3. Посёлок Северное
+21.4. Посёлок Южное
+Англійська:
+Solotvyno (UTC)
+21.1. Center
+21.2. Industrial Zone
+21.3. Pivnichne Settlement
+21.4. Pivdenne Settlement
+Польська:
+Sołotwina (osiedle)
+21.1. Centrum
+21.2. Strefa przemysłowa
+21.3. Osiedle Północne
+21.4. Osiedle Południowe
+Тересва (смт) / Тересва (пгт) / Teresva (UTC) / Tereswa (osiedle)
+Українська:
+Тересва (смт)
+22.1. Центр
+22.2. Промислова зона
+22.3. Селище Північне
+22.4. Селище Південне
+Російська:
+Тересва (пгт)
+22.1. Центр
+22.2. Промышленная зона
+22.3. Посёлок Северное
+22.4. Посёлок Южное
+Англійська:
+Teresva (UTC)
+22.1. Center
+22.2. Industrial Zone
+22.3. Pivnichne Settlement
+22.4. Pivdenne Settlement
+Польська:
+Tereswa (osiedle)
+22.1. Centrum
+22.2. Strefa przemysłowa
+22.3. Osiedle Północne
+22.4. Osiedle Południowe
+Усть-Чорна (смт) / Усть-Чорная (пгт) / Ust-Chorna (UTC) / Ust-Czorna (osiedle)
+Українська:
+Усть-Чорна (смт)
+23.1. Центр
+23.2. Промислова зона
+23.3. Селище Гірське
+23.4. Селище Південне
+Російська:
+Усть-Чорная (пгт)
+23.1. Центр
+23.2. Промышленная зона
+23.3. Посёлок Горное
+23.4. Посёлок Южное
+Англійська:
+Ust-Chorna (UTC)
+23.1. Center
+23.2. Industrial Zone
+23.3. Hirske Settlement
+23.4. Pivdenne Settlement
+Польська:
+Ust-Czorna (osiedle)
+23.1. Centrum
+23.2. Strefa przemysłowa
+23.3. Osiedle Górskie
+23.4. Osiedle Południowe
+Ясіня (смт) / Ясиня (пгт) / Yasynia (UTC) / Jasinia (osiedle)
+Українська:
+Ясіня (смт)
+24.1. Центр
+24.2. Промислова зона
+24.3. Селище Лісове
+24.4. Селище Підлісне
+Російська:
+Ясиня (пгт)
+24.1. Центр
+24.2. Промышленная зона
+24.3. Посёлок Лесное
+24.4. Посёлок Подлесное
+Англійська:
+Yasynia (UTC)
+24.1. Center
+24.2. Industrial Zone
+24.3. Lisove Settlement
+24.4. Pidlisne Settlement
+Польська:
+Jasinia (osiedle)
+24.1. Centrum
+24.2. Strefa przemysłowa
+24.3. Osiedle Leśne
+24.4. Osiedle Podleśne
+
+
+
+
+Велика Добронь (смт) / Великая Добронь (пгт) / Velyka Dobron (UTC) / Wielka Dobroń (osiedle)
+Українська:
+Велика Добронь (смт)
+25.1. Центр
+25.2. Промислова зона
+25.3. Селище Лісове
+25.4. Селище Південне
+Російська:
+Великая Добронь (пгт)
+25.1. Центр
+25.2. Промышленная зона
+25.3. Посёлок Лесное
+25.4. Посёлок Южное
+Англійська:
+Velyka Dobron (UTC)
+25.1. Center
+25.2. Industrial Zone
+25.3. Lisove Settlement
+25.4. Pivdenne Settlement
+Польська:
+Wielka Dobroń (osiedle)
+25.1. Centrum
+25.2. Strefa przemysłowa
+25.3. Osiedle Leśne
+25.4. Osiedle Południowe
+Буштино (смт) / Буштино (пгт) / Bushtyno (UTC) / Busztyno (osiedle)
+Українська:
+Буштино (смт)
+26.1. Центр
+26.2. Промислова зона
+26.3. Селище Північне
+26.4. Селище Південне
+Російська:
+Буштино (пгт)
+26.1. Центр
+26.2. Промышленная зона
+26.3. Посёлок Северное
+26.4. Посёлок Южное
+Англійська:
+Bushtyno (UTC)
+26.1. Center
+26.2. Industrial Zone
+26.3. Pivnichne Settlement
+26.4. Pivdenne Settlement
+Польська:
+Busztyno (osiedle)
+26.1. Centrum
+26.2. Strefa przemysłowa
+26.3. Osiedle Północne
+26.4. Osiedle Południowe
+Великий Бичків (смт) / Великий Бычков (пгт) / Velykyi Bychkiv (UTC) / Wielki Byczków (osiedle)
+Українська:
+Великий Бичків (смт)
+27.1. Центр
+27.2. Промислова зона
+27.3. Селище Лісове
+27.4. Селище Підлісне
+Російська:
+Великий Бычков (пгт)
+27.1. Центр
+27.2. Промышленная зона
+27.3. Посёлок Лесное
+27.4. Посёлок Подлесное
+Англійська:
+Velykyi Bychkiv (UTC)
+27.1. Center
+27.2. Industrial Zone
+27.3. Lisove Settlement
+27.4. Pidlisne Settlement
+Польська:
+Wielki Byczków (osiedle)
+27.1. Centrum
+27.2. Strefa przemysłowa
+27.3. Osiedle Leśne
+27.4. Osiedle Podleśne
+Кобилецька Поляна (смт) / Кобылецкая Поляна (пгт) / Kobyletska Polyana (UTC) / Kobylecka Polana (osiedle)
+Українська:
+Кобилецька Поляна (смт)
+28.1. Центр
+28.2. Промислова зона
+28.3. Селище Лісове
+28.4. Селище Підлісне
+Російська:
+Кобылецкая Поляна (пгт)
+28.1. Центр
+28.2. Промышленная зона
+28.3. Посёлок Лесное
+28.4. Посёлок Подлесное
+Англійська:
+Kobyletska Polyana (UTC)
+28.1. Center
+28.2. Industrial Zone
+28.3. Lisove Settlement
+28.4. Pidlisne Settlement
+Польська:
+Kobylecka Polana (osiedle)
+28.1. Centrum
+28.2. Strefa przemysłowa
+28.3. Osiedle Leśne
+28.4. Osiedle Podleśne

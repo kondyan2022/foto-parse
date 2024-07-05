@@ -1,18 +1,12 @@
-import sys
+
 import re
 from transliterate import translit, get_available_language_codes
 
-
-filename = sys.argv[1]
 
 LANGUAGES = ['uk', 'ru', 'en', 'pl']
 LANG_FULLNAME = ['українська', 'російська', 'англійська', 'польська']
 LANG_ZIP = dict(zip(LANG_FULLNAME, LANGUAGES))
 STATES = {'wait_city', 'wait_lang', 'wait_districts'}
-
-
-if len(filename) == 0:
-    exit()
 
 
 def get_city(text):
@@ -42,9 +36,9 @@ def get_state_dict(filename):
     current_lang = ''
     with open(filename, "r", encoding='utf-8') as file:
         fc = file.readlines()
-
-    state = translit(fc[0], 'uk', reversed=True).replace(
-        " ", "_").replace("'", '').lover()
+    state = fc[0].replace("\n", "")
+    state_trans = translit(state, 'uk', reversed=True).replace(
+        " ", "_").replace("'", '').lower()
     for line in fc:
         flag, value = get_city(line)
         if flag:
@@ -68,7 +62,4 @@ def get_state_dict(filename):
                     {"id": id, current_lang: value})
     cities.append(current_city)
 
-    return state, cities
-
-
-state, cities = get_state_dict(filename)
+    return state, state_trans, cities

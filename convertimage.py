@@ -1,10 +1,24 @@
 from PIL import Image, ImageFile
-import glob
+from pathlib import Path
 import os
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
-for infile in glob.glob("d:\\LoadPic\\*.jpg")+glob.glob("d:\\LoadPic\\*.png")+glob.glob("d:\\LoadPic\\*.gif"):
-    file, ext = os.path.splitext(infile)
-    print(file, ext)
-    im = Image.open(infile).convert("RGB")
-    im.save(file + ".webp", "webp")
+
+def shrink_file(filepath):
+    im = Image.open(filepath)
+    half = 0.5
+    im = im.resize([int(half * s) for s in im.size])
+    im.save(filepath, im.format)
+
+
+def pic2webp(path):
+    for infile in path.glob("*.[jpg jpeg png gif]*"):
+        filename, ext = os.path.splitext(infile)
+        im = Image.open(infile).convert("RGB")
+        im.save(filename + ".webp", "webp")
+        newFile = Path(filename + ".webp")
+        current_file, unlink_file = (newFile, infile) if newFile.stat(
+        ).st_size <= infile.stat().st_size else (infile, newFile)
+        unlink_file.unlink()
+        while current_file.stat().st_size > 500000:
+            shrink_file(current_file)

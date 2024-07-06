@@ -26,7 +26,7 @@ def get_language(text):
 def get_district(text):
     match = re.search(r'^(\d+\.\d+\.)\s{1}(.+)$', text.strip())
     if match:
-        return True, match[1][:-1], match[2]
+        return True, match[1][:-1], match[2].lower()
     return False, None, None
 
 
@@ -36,10 +36,10 @@ def get_state_dict(filename):
     current_lang = ''
     with open(filename, "r", encoding='utf-8') as file:
         fc = file.readlines()
-    state = fc[0].replace("\n", "")
-    state_trans = translit(state, 'uk', reversed=True).replace(
-        " ", "_").replace("'", '').lower()
-    for line in fc:
+    flag, country = get_city(fc[0])
+    flag, state = get_city(fc[1])
+
+    for line in fc[2:]:
         flag, value = get_city(line)
         if flag:
             if current_city != '':
@@ -62,4 +62,4 @@ def get_state_dict(filename):
                     {"id": id, current_lang: value})
     cities.append(current_city)
 
-    return state, state_trans, cities
+    return country, state, cities
